@@ -1,0 +1,3 @@
+﻿  main.c
+D:\學業\作業\程式\codes\HW3-1\P23\P23\P23\main.c(12,12): warning C4013: 'time' 未定義; 假設 extern 傳回整數
+  P23.vcxproj -> D:\學業\作業\程式\codes\HW3-1\P23\P23\Debug\P23.exe

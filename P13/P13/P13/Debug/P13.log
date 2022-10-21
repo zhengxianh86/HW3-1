@@ -1,0 +1,3 @@
+﻿  main.c
+D:\學業\作業\程式\codes\HW3-1\P13\P13\P13\main.c(10,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  P13.vcxproj -> D:\學業\作業\程式\codes\HW3-1\P13\P13\Debug\P13.exe
